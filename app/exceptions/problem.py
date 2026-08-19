@@ -1,0 +1,2 @@
+class ProblemNotFoundError(Exception):
+    pass
